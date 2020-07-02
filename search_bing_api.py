@@ -85,3 +85,5 @@ for v in results["value"]:
 			continue
 		# update the counter
 		total += 1
+
+print(total)
