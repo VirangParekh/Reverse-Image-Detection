@@ -84,6 +84,6 @@ for v in results["value"]:
 			os.remove(p)
 			continue
 		# update the counter
-		total += 1
+		total_images += 1
 
-print(total)
+print(total_images)
