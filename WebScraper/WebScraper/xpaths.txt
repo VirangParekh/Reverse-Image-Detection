@@ -1,7 +1,0 @@
-product_link: //div[@data-component-type="s-search-result"]/div/span/div/div//span[@class="rush-component"]/a[@class="a-link-normal"]/@href
-
-image_link: //div[@data-component-type="s-search-result"]/div/span/div/div//span[@class="rush-component"]/a[@class="a-link-normal"]/div/img/@src
-
-product_name: //div[@data-component-type="s-search-result"]/div/span/div/div/div[3]/h2/a/span/text()
-
-price: //div[@data-component-type="s-search-result"]/div/span/div/div/div[5]/div//a/span[@class="a-price"]/span[2]/span[2]/text()
